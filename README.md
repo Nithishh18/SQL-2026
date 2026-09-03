@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Nithishh18/SQL-2026/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nithishh18/SQL-2026/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/Nithishh18/SQL-2026/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nithishh18/SQL-2026/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nithishh18/SQL-2026/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
