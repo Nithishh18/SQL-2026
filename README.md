@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Nithishh18/SQL-2026/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Nithishh18/SQL-2026/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nithishh18/SQL-2026/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Nithishh18/SQL-2026/tree/master/0595-big-countries) |
